@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1526230306 source:c:\users\wassim\desktop\competition systeme\day2\mini projet\main.cpp
+	<iostream>
+	"include/FichierOcc.h"
+	"include/Fichier.h"
+	"include/MotOccs.h"
+	"include/Fichier.h"
+	"include/IndexDeMots.h"
+	"include/IndexDeMotsMap.h"
+	"include/IndexDeMotsVector.h"
+	<sstream>
+
+1526113375 c:\users\wassim\desktop\competition systeme\day2\mini projet\include\fichierocc.h
+	<string>
+
+1526114131 c:\users\wassim\desktop\competition systeme\day2\mini projet\include\motoccs.h
+	<string>
+	<vector>
+	"FichierOcc.h"
+
+1526230261 c:\users\wassim\desktop\competition systeme\day2\mini projet\include\fichier.h
+	<fstream>
+	<vector>
+
+1526232205 c:\users\wassim\desktop\competition systeme\day2\mini projet\include\indexdemots.h
+	<vector>
+	"FichierOcc.h"
+
+1526230754 c:\users\wassim\desktop\competition systeme\day2\mini projet\include\indexdemotsmap.h
+	<map>
+	"IndexDeMots.h"
+
+1526113342 source:c:\users\wassim\desktop\competition systeme\day2\mini projet\src\fichier.cpp
+	"../include/Fichier.h"
+
+1526113414 source:c:\users\wassim\desktop\competition systeme\day2\mini projet\src\fichierocc.cpp
+	"../include/FichierOcc.h"
+
+1526230816 source:c:\users\wassim\desktop\competition systeme\day2\mini projet\src\indexdemotsmap.cpp
+	<iostream>
+	"../include/IndexDeMotsMap.h"
+	"../include/Fichier.h"
+
+1526232561 source:c:\users\wassim\desktop\competition systeme\day2\mini projet\src\indexdemotsvector.cpp
+	<iostream>
+	"../include/IndexDeMotsVector.h"
+	"../include/Fichier.h"
+
+1526230754 c:\users\wassim\desktop\competition systeme\day2\mini projet\include\indexdemotsvector.h
+	<vector>
+	"IndexDeMots.h"
+	"MotOccs.h"
+
+1526114141 source:c:\users\wassim\desktop\competition systeme\day2\mini projet\src\motoccs.cpp
+	"../include/MotOccs.h"
+
